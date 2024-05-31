@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrea Basili</h1>
 <h3 align="center">A Passionate Full Stack Developer based in Brussels, Belgium</h3>
 
-I'm an aspiring developer with a background as a sommelier. I’ve recently transitioned into tech, driven by my passion for creating innovative solutions. Currently, I'm enhancing my skills in Rails and diving into testing methodologies.
+I'm a web developer with a background as a sommelier. I’ve recently transitioned into tech, driven by my passion for creating innovative solutions. Currently, I'm enhancing my skills in Rails and diving into testing methodologies.
 
-- 🔭 I’m currently working on [Chess Nexus](https://chess-bro-6b451ee7b4b4.herokuapp.com/), a platform to connect chess enthusiasts.
-- 🌱 I’m learning **Rails** and exploring **testing** to refine my development skills.
 - 👨‍💻 Discover my projects at [my GitHub repositories](https://github.com/basi90?tab=repositories).
 - 📫 Reach out to me at **andrea.basili@live.it**.
 - 📄 Learn more about my journey and projects [here](https://basi90.github.io/profile/).
