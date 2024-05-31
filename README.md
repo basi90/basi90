@@ -10,6 +10,7 @@ I'm a developer with a background as a sommelier. I’ve recently transitioned i
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>](https://github.com/basi90)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/andrea-basili-2275aa302/)
 
 ### Languages and Tools I Use:
 <p align="left">
