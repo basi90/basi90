@@ -9,12 +9,8 @@ I'm a developer with a background as a sommelier. I’ve recently transitioned i
 - ⚡ Fun fact: I once cooked an egg by burying it at the top of a volcano.
 
 ### Connect with me:
-<a href="https://github.com/basi90" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/andrea-basili-2275aa302/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>](https://github.com/basi90)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>](https://www.linkedin.com/in/andrea-basili-2275aa302/)
 
 ### Languages and Tools I Use:
 <p align="left">
