@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Basili</h1>
 <h3 align="center">A Passionate Full Stack Developer based in Brussels, Belgium</h3>
 
-I'm a web developer with a background as a sommelier. I’ve recently transitioned into tech, driven by my passion for creating innovative solutions. Currently, I'm improving my skills in Rails by exploring testing methodologies, and in React to create more effective UI/UX.
+I'm a developer with a background as a sommelier. I’ve recently transitioned into tech, driven by my passion for creating innovative solutions. Currently, I'm improving my skills in Rails by exploring testing methodologies, and in React to create more effective UI/UX.
 
 - 👨‍💻 Discover my projects at [my GitHub repositories](https://github.com/basi90?tab=repositories).
 - 📫 Reach out to me at **andrea.basili@live.it**.
