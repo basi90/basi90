@@ -5,7 +5,6 @@ I'm a developer with a background as a sommelier. I’ve recently transitioned i
 
 - 👨‍💻 Discover my projects at [my GitHub repositories](https://github.com/basi90?tab=repositories).
 - 📫 Reach out to me at **andrea.basili@live.it**.
-- 📄 Learn more about my journey and projects [here](https://basi90.github.io/profile/).
 - ⚡ Fun fact: I once cooked an egg by burying it at the top of a volcano.
 
 ### Connect with me:
