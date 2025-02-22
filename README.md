@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Basili</h1>
 <h3 align="center">A Passionate Full Stack Developer based in Brussels, Belgium</h3>
 
-I'm a developer passionate about learning and building practical solutions. Through hands-on experience in courses, bootcamps, and projects,  I'm continually developing my skills in both front-end and back-end development. I enjoy tackling challenges and creating efficient, user-friendly applications.
+I'm a developer passionate about learning and building practical solutions. Through hands-on experience in courses, bootcamps, and projects,  I'm continuosly developing my skills in both front-end and back-end development. I enjoy tackling challenges and creating efficient, user-friendly applications.
 
 - 👨‍💻 Discover my projects at [my GitHub repositories](https://github.com/basi90?tab=repositories).
 - 📫 Reach out to me at **andrea.basili@live.it**.
